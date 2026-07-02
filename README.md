@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/vineetsharm55-hub/cp-code/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/vineetsharm55-hub/cp-code/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vineetsharm55-hub/cp-code/tree/master/0215-kth-largest-element-in-an-array) |
+| [0912-sort-an-array](https://github.com/vineetsharm55-hub/cp-code/tree/master/0912-sort-an-array) |
 | [1646-get-maximum-in-generated-array](https://github.com/vineetsharm55-hub/cp-code/tree/master/1646-get-maximum-in-generated-array) |
 ## Simulation
 |  |
@@ -39,14 +40,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/vineetsharm55-hub/cp-code/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vineetsharm55-hub/cp-code/tree/master/0215-kth-largest-element-in-an-array) |
+| [0912-sort-an-array](https://github.com/vineetsharm55-hub/cp-code/tree/master/0912-sort-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vineetsharm55-hub/cp-code/tree/master/0215-kth-largest-element-in-an-array) |
+| [0912-sort-an-array](https://github.com/vineetsharm55-hub/cp-code/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vineetsharm55-hub/cp-code/tree/master/0215-kth-largest-element-in-an-array) |
+| [0912-sort-an-array](https://github.com/vineetsharm55-hub/cp-code/tree/master/0912-sort-an-array) |
 ## Quickselect
 |  |
 | ------- |
@@ -59,4 +63,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/vineetsharm55-hub/cp-code/tree/master/0409-longest-palindrome) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/vineetsharm55-hub/cp-code/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/vineetsharm55-hub/cp-code/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/vineetsharm55-hub/cp-code/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/vineetsharm55-hub/cp-code/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
