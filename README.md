@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/vineetsharm55-hub/cp-code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vineetsharm55-hub/cp-code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/vineetsharm55-hub/cp-code/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/vineetsharm55-hub/cp-code/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/vineetsharm55-hub/cp-code/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vineetsharm55-hub/cp-code/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vineetsharm55-hub/cp-code/tree/master/0215-kth-largest-element-in-an-array) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/vineetsharm55-hub/cp-code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vineetsharm55-hub/cp-code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/vineetsharm55-hub/cp-code/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/vineetsharm55-hub/cp-code/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/vineetsharm55-hub/cp-code/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -97,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/vineetsharm55-hub/cp-code/tree/master/0268-missing-number) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/vineetsharm55-hub/cp-code/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
