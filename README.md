@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/vineetsharm55-hub/cp-code/tree/master/0415-add-strings) |
 | [1646-get-maximum-in-generated-array](https://github.com/vineetsharm55-hub/cp-code/tree/master/1646-get-maximum-in-generated-array) |
 ## Hash Table
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/vineetsharm55-hub/cp-code/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/vineetsharm55-hub/cp-code/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/vineetsharm55-hub/cp-code/tree/master/0268-missing-number) |
+| [0415-add-strings](https://github.com/vineetsharm55-hub/cp-code/tree/master/0415-add-strings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/vineetsharm55-hub/cp-code/tree/master/0409-longest-palindrome) |
+| [0415-add-strings](https://github.com/vineetsharm55-hub/cp-code/tree/master/0415-add-strings) |
 ## Greedy
 |  |
 | ------- |
