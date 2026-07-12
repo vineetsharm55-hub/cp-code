@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vineetsharm55-hub/cp-code/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/vineetsharm55-hub/cp-code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/vineetsharm55-hub/cp-code/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/vineetsharm55-hub/cp-code/tree/master/0268-missing-number) |
 | [0409-longest-palindrome](https://github.com/vineetsharm55-hub/cp-code/tree/master/0409-longest-palindrome) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/vineetsharm55-hub/cp-code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/vineetsharm55-hub/cp-code/tree/master/0014-longest-common-prefix) |
 | [0409-longest-palindrome](https://github.com/vineetsharm55-hub/cp-code/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/vineetsharm55-hub/cp-code/tree/master/0415-add-strings) |
@@ -134,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/vineetsharm55-hub/cp-code/tree/master/0014-longest-common-prefix) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/vineetsharm55-hub/cp-code/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
