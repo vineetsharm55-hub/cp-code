@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/vineetsharm55-hub/cp-code/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vineetsharm55-hub/cp-code/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/vineetsharm55-hub/cp-code/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/vineetsharm55-hub/cp-code/tree/master/0075-sort-colors) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vineetsharm55-hub/cp-code/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/vineetsharm55-hub/cp-code/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/vineetsharm55-hub/cp-code/tree/master/0014-longest-common-prefix) |
 | [0409-longest-palindrome](https://github.com/vineetsharm55-hub/cp-code/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/vineetsharm55-hub/cp-code/tree/master/0415-add-strings) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/vineetsharm55-hub/cp-code/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/vineetsharm55-hub/cp-code/tree/master/0042-trapping-rain-water) |
 ## Stack
 |  |
