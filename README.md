@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/vineetsharm55-hub/cp-code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/vineetsharm55-hub/cp-code/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/vineetsharm55-hub/cp-code/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/vineetsharm55-hub/cp-code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/vineetsharm55-hub/cp-code/tree/master/0268-missing-number) |
 | [0409-longest-palindrome](https://github.com/vineetsharm55-hub/cp-code/tree/master/0409-longest-palindrome) |
 | [1122-relative-sort-array](https://github.com/vineetsharm55-hub/cp-code/tree/master/1122-relative-sort-array) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/vineetsharm55-hub/cp-code/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vineetsharm55-hub/cp-code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/vineetsharm55-hub/cp-code/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/vineetsharm55-hub/cp-code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/vineetsharm55-hub/cp-code/tree/master/0268-missing-number) |
 | [0912-sort-an-array](https://github.com/vineetsharm55-hub/cp-code/tree/master/0912-sort-an-array) |
 | [1122-relative-sort-array](https://github.com/vineetsharm55-hub/cp-code/tree/master/1122-relative-sort-array) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/vineetsharm55-hub/cp-code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/vineetsharm55-hub/cp-code/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/vineetsharm55-hub/cp-code/tree/master/0014-longest-common-prefix) |
+| [0242-valid-anagram](https://github.com/vineetsharm55-hub/cp-code/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/vineetsharm55-hub/cp-code/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/vineetsharm55-hub/cp-code/tree/master/0415-add-strings) |
 ## Greedy
