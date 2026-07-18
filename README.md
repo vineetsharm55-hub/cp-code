@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/vineetsharm55-hub/cp-code/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/vineetsharm55-hub/cp-code/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/vineetsharm55-hub/cp-code/tree/master/0415-add-strings) |
+| [0779-k-th-symbol-in-grammar](https://github.com/vineetsharm55-hub/cp-code/tree/master/0779-k-th-symbol-in-grammar) |
 ## Two Pointers
 |  |
 | ------- |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/vineetsharm55-hub/cp-code/tree/master/0268-missing-number) |
+| [0779-k-th-symbol-in-grammar](https://github.com/vineetsharm55-hub/cp-code/tree/master/0779-k-th-symbol-in-grammar) |
 ## Matrix
 |  |
 | ------- |
@@ -192,4 +194,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/vineetsharm55-hub/cp-code/tree/master/0258-add-digits) |
+## Recursion
+|  |
+| ------- |
+| [0779-k-th-symbol-in-grammar](https://github.com/vineetsharm55-hub/cp-code/tree/master/0779-k-th-symbol-in-grammar) |
 <!---LeetCode Topics End-->
