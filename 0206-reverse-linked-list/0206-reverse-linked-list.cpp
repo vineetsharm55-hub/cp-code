@@ -8,19 +8,38 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
+// class Solution {
+// public:
+//     ListNode* reverseList(ListNode* head) {
+//         ListNode* prevptr=NULL;
+//         ListNode* currptr=head;
+//         ListNode* Nextptr;
+//         while(currptr!=NULL){
+//             Nextptr=currptr->next;
+//             currptr->next=prevptr;
+//             prevptr=currptr;
+//             currptr=Nextptr;
+//         }
+//         return prevptr;
+
+//     }
+// };
 class Solution {
 public:
     ListNode* reverseList(ListNode* head) {
-        ListNode* prevptr=NULL;
-        ListNode* currptr=head;
-        ListNode* Nextptr;
-        while(currptr!=NULL){
-            Nextptr=currptr->next;
-            currptr->next=prevptr;
-            prevptr=currptr;
-            currptr=Nextptr;
+        stack<int>st;
+        ListNode* temp=head;
+        while(temp!=NULL){
+            st.push(temp->val);
+            temp=temp->next;
         }
-        return prevptr;
+        temp=head;
+        while(temp!=NULL){
+            temp->val=st.top();
+            st.pop();
+            temp=temp->next;
+        }
+        return head;
 
     }
 };
