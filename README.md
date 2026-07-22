@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vineetsharm55-hub/cp-code/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0203-remove-linked-list-elements](https://github.com/vineetsharm55-hub/cp-code/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/vineetsharm55-hub/cp-code/tree/master/0206-reverse-linked-list) |
 ## Queue
 |  |
 | ------- |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/vineetsharm55-hub/cp-code/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/vineetsharm55-hub/cp-code/tree/master/0206-reverse-linked-list) |
 | [0779-k-th-symbol-in-grammar](https://github.com/vineetsharm55-hub/cp-code/tree/master/0779-k-th-symbol-in-grammar) |
 ## Memoization
 |  |
