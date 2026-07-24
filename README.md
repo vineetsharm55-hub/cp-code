@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/vineetsharm55-hub/cp-code/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/vineetsharm55-hub/cp-code/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/vineetsharm55-hub/cp-code/tree/master/0206-reverse-linked-list) |
+| [0707-design-linked-list](https://github.com/vineetsharm55-hub/cp-code/tree/master/0707-design-linked-list) |
 ## Queue
 |  |
 | ------- |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0707-design-linked-list](https://github.com/vineetsharm55-hub/cp-code/tree/master/0707-design-linked-list) |
 | [0933-number-of-recent-calls](https://github.com/vineetsharm55-hub/cp-code/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |
