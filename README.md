@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/vineetsharm55-hub/cp-code/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/vineetsharm55-hub/cp-code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/vineetsharm55-hub/cp-code/tree/master/0225-implement-stack-using-queues) |
 ## Monotonic Stack
 |  |
@@ -221,4 +222,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/vineetsharm55-hub/cp-code/tree/master/0046-permutations) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/vineetsharm55-hub/cp-code/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/vineetsharm55-hub/cp-code/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/vineetsharm55-hub/cp-code/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
