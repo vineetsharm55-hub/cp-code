@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/vineetsharm55-hub/cp-code/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/vineetsharm55-hub/cp-code/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/vineetsharm55-hub/cp-code/tree/master/0070-climbing-stairs) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/vineetsharm55-hub/cp-code/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Stack
 |  |
 | ------- |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/vineetsharm55-hub/cp-code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/vineetsharm55-hub/cp-code/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vineetsharm55-hub/cp-code/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/vineetsharm55-hub/cp-code/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vineetsharm55-hub/cp-code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/vineetsharm55-hub/cp-code/tree/master/0222-count-complete-tree-nodes) |
 ## Depth-First Search
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/vineetsharm55-hub/cp-code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vineetsharm55-hub/cp-code/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/vineetsharm55-hub/cp-code/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vineetsharm55-hub/cp-code/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
@@ -245,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/vineetsharm55-hub/cp-code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/vineetsharm55-hub/cp-code/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vineetsharm55-hub/cp-code/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/vineetsharm55-hub/cp-code/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vineetsharm55-hub/cp-code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/vineetsharm55-hub/cp-code/tree/master/0222-count-complete-tree-nodes) |
 ## Breadth-First Search
