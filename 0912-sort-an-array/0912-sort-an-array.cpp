@@ -25,8 +25,6 @@ void merge(vector<int>& nums,int i,int mid,int j){
     for(int k=0;k<temp.size();k++){
         nums[i+k]=temp[k];
     }
-
-
 }
 
 
@@ -40,9 +38,9 @@ void mergeSort(vector<int>& nums,int i,int j){
     merge(nums,i,mid,j);
 }
 
-    vector<int> sortArray(vector<int>& nums) {
-        int n=nums.size();
-        mergeSort(nums,0,n-1);
-        return nums;    
-    }
+vector<int> sortArray(vector<int>& nums) {
+    int n=nums.size();
+    mergeSort(nums,0,n-1);
+    return nums;    
+}
 };
