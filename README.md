@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/vineetsharm55-hub/cp-code/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vineetsharm55-hub/cp-code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vineetsharm55-hub/cp-code/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0485-max-consecutive-ones](https://github.com/vineetsharm55-hub/cp-code/tree/master/0485-max-consecutive-ones) |
 | [0912-sort-an-array](https://github.com/vineetsharm55-hub/cp-code/tree/master/0912-sort-an-array) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/vineetsharm55-hub/cp-code/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1122-relative-sort-array](https://github.com/vineetsharm55-hub/cp-code/tree/master/1122-relative-sort-array) |
