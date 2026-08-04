@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/vineetsharm55-hub/cp-code/tree/master/1512-number-of-good-pairs) |
 | [1646-get-maximum-in-generated-array](https://github.com/vineetsharm55-hub/cp-code/tree/master/1646-get-maximum-in-generated-array) |
 | [1672-richest-customer-wealth](https://github.com/vineetsharm55-hub/cp-code/tree/master/1672-richest-customer-wealth) |
+| [1920-build-array-from-permutation](https://github.com/vineetsharm55-hub/cp-code/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/vineetsharm55-hub/cp-code/tree/master/1929-concatenation-of-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/vineetsharm55-hub/cp-code/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/vineetsharm55-hub/cp-code/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/vineetsharm55-hub/cp-code/tree/master/0415-add-strings) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/vineetsharm55-hub/cp-code/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1646-get-maximum-in-generated-array](https://github.com/vineetsharm55-hub/cp-code/tree/master/1646-get-maximum-in-generated-array) |
+| [1920-build-array-from-permutation](https://github.com/vineetsharm55-hub/cp-code/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/vineetsharm55-hub/cp-code/tree/master/1929-concatenation-of-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/vineetsharm55-hub/cp-code/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2460-apply-operations-to-an-array](https://github.com/vineetsharm55-hub/cp-code/tree/master/2460-apply-operations-to-an-array) |
