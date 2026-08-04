@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/vineetsharm55-hub/cp-code/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/vineetsharm55-hub/cp-code/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/vineetsharm55-hub/cp-code/tree/master/0643-maximum-average-subarray-i) |
+| [0860-lemonade-change](https://github.com/vineetsharm55-hub/cp-code/tree/master/0860-lemonade-change) |
 | [0905-sort-array-by-parity](https://github.com/vineetsharm55-hub/cp-code/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/vineetsharm55-hub/cp-code/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/vineetsharm55-hub/cp-code/tree/master/0977-squares-of-a-sorted-array) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/vineetsharm55-hub/cp-code/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/vineetsharm55-hub/cp-code/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/vineetsharm55-hub/cp-code/tree/master/0605-can-place-flowers) |
+| [0860-lemonade-change](https://github.com/vineetsharm55-hub/cp-code/tree/master/0860-lemonade-change) |
 ## Merge Sort
 |  |
 | ------- |
