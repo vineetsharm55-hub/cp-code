@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/vineetsharm55-hub/cp-code/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2574-left-and-right-sum-differences](https://github.com/vineetsharm55-hub/cp-code/tree/master/2574-left-and-right-sum-differences) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/vineetsharm55-hub/cp-code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/vineetsharm55-hub/cp-code/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 ## Simulation
 |  |
 | ------- |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/vineetsharm55-hub/cp-code/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/vineetsharm55-hub/cp-code/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/vineetsharm55-hub/cp-code/tree/master/0415-add-strings) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/vineetsharm55-hub/cp-code/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 ## Greedy
 |  |
 | ------- |
