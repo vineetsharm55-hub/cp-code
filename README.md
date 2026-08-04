@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0779-k-th-symbol-in-grammar](https://github.com/vineetsharm55-hub/cp-code/tree/master/0779-k-th-symbol-in-grammar) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vineetsharm55-hub/cp-code/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/vineetsharm55-hub/cp-code/tree/master/1512-number-of-good-pairs) |
+| [2235-add-two-integers](https://github.com/vineetsharm55-hub/cp-code/tree/master/2235-add-two-integers) |
 ## Two Pointers
 |  |
 | ------- |
