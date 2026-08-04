@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/vineetsharm55-hub/cp-code/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/vineetsharm55-hub/cp-code/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vineetsharm55-hub/cp-code/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0169-majority-element](https://github.com/vineetsharm55-hub/cp-code/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vineetsharm55-hub/cp-code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/vineetsharm55-hub/cp-code/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/vineetsharm55-hub/cp-code/tree/master/0219-contains-duplicate-ii) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/vineetsharm55-hub/cp-code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vineetsharm55-hub/cp-code/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/vineetsharm55-hub/cp-code/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/vineetsharm55-hub/cp-code/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vineetsharm55-hub/cp-code/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/vineetsharm55-hub/cp-code/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/vineetsharm55-hub/cp-code/tree/master/0242-valid-anagram) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/vineetsharm55-hub/cp-code/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vineetsharm55-hub/cp-code/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/vineetsharm55-hub/cp-code/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vineetsharm55-hub/cp-code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/vineetsharm55-hub/cp-code/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vineetsharm55-hub/cp-code/tree/master/0242-valid-anagram) |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vineetsharm55-hub/cp-code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vineetsharm55-hub/cp-code/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0169-majority-element](https://github.com/vineetsharm55-hub/cp-code/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vineetsharm55-hub/cp-code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/vineetsharm55-hub/cp-code/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
@@ -219,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/vineetsharm55-hub/cp-code/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/vineetsharm55-hub/cp-code/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/vineetsharm55-hub/cp-code/tree/master/0387-first-unique-character-in-a-string) |
 | [0912-sort-an-array](https://github.com/vineetsharm55-hub/cp-code/tree/master/0912-sort-an-array) |
@@ -381,4 +386,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/vineetsharm55-hub/cp-code/tree/master/0455-assign-cookies) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/vineetsharm55-hub/cp-code/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
