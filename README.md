@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/vineetsharm55-hub/cp-code/tree/master/1929-concatenation-of-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/vineetsharm55-hub/cp-code/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/vineetsharm55-hub/cp-code/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2460-apply-operations-to-an-array](https://github.com/vineetsharm55-hub/cp-code/tree/master/2460-apply-operations-to-an-array) |
 ## Simulation
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-get-maximum-in-generated-array](https://github.com/vineetsharm55-hub/cp-code/tree/master/1646-get-maximum-in-generated-array) |
 | [1929-concatenation-of-array](https://github.com/vineetsharm55-hub/cp-code/tree/master/1929-concatenation-of-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/vineetsharm55-hub/cp-code/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2460-apply-operations-to-an-array](https://github.com/vineetsharm55-hub/cp-code/tree/master/2460-apply-operations-to-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/vineetsharm55-hub/cp-code/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/vineetsharm55-hub/cp-code/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/vineetsharm55-hub/cp-code/tree/master/1089-duplicate-zeros) |
+| [2460-apply-operations-to-an-array](https://github.com/vineetsharm55-hub/cp-code/tree/master/2460-apply-operations-to-an-array) |
 ## Sorting
 |  |
 | ------- |
