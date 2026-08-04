@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/vineetsharm55-hub/cp-code/tree/master/1122-relative-sort-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vineetsharm55-hub/cp-code/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vineetsharm55-hub/cp-code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1389-create-target-array-in-the-given-order](https://github.com/vineetsharm55-hub/cp-code/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/vineetsharm55-hub/cp-code/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/vineetsharm55-hub/cp-code/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/vineetsharm55-hub/cp-code/tree/master/1512-number-of-good-pairs) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/vineetsharm55-hub/cp-code/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/vineetsharm55-hub/cp-code/tree/master/0415-add-strings) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/vineetsharm55-hub/cp-code/tree/master/0985-sum-of-even-numbers-after-queries) |
+| [1389-create-target-array-in-the-given-order](https://github.com/vineetsharm55-hub/cp-code/tree/master/1389-create-target-array-in-the-given-order) |
 | [1646-get-maximum-in-generated-array](https://github.com/vineetsharm55-hub/cp-code/tree/master/1646-get-maximum-in-generated-array) |
 | [1920-build-array-from-permutation](https://github.com/vineetsharm55-hub/cp-code/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/vineetsharm55-hub/cp-code/tree/master/1929-concatenation-of-array) |
