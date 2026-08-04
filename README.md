@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/vineetsharm55-hub/cp-code/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/vineetsharm55-hub/cp-code/tree/master/1929-concatenation-of-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/vineetsharm55-hub/cp-code/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2090-k-radius-subarray-averages](https://github.com/vineetsharm55-hub/cp-code/tree/master/2090-k-radius-subarray-averages) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/vineetsharm55-hub/cp-code/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vineetsharm55-hub/cp-code/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/vineetsharm55-hub/cp-code/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/vineetsharm55-hub/cp-code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/vineetsharm55-hub/cp-code/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/vineetsharm55-hub/cp-code/tree/master/0643-maximum-average-subarray-i) |
+| [2090-k-radius-subarray-averages](https://github.com/vineetsharm55-hub/cp-code/tree/master/2090-k-radius-subarray-averages) |
 ## Linked List
 |  |
 | ------- |
