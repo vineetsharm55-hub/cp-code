@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/vineetsharm55-hub/cp-code/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/vineetsharm55-hub/cp-code/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2460-apply-operations-to-an-array](https://github.com/vineetsharm55-hub/cp-code/tree/master/2460-apply-operations-to-an-array) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/vineetsharm55-hub/cp-code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Simulation
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/vineetsharm55-hub/cp-code/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vineetsharm55-hub/cp-code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vineetsharm55-hub/cp-code/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/vineetsharm55-hub/cp-code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Math
 |  |
 | ------- |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/vineetsharm55-hub/cp-code/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/vineetsharm55-hub/cp-code/tree/master/1089-duplicate-zeros) |
 | [2460-apply-operations-to-an-array](https://github.com/vineetsharm55-hub/cp-code/tree/master/2460-apply-operations-to-an-array) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/vineetsharm55-hub/cp-code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
 | ------- |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/vineetsharm55-hub/cp-code/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vineetsharm55-hub/cp-code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/vineetsharm55-hub/cp-code/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/vineetsharm55-hub/cp-code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Divide and Conquer
 |  |
 | ------- |
