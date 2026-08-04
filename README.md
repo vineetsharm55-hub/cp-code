@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/vineetsharm55-hub/cp-code/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/vineetsharm55-hub/cp-code/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/vineetsharm55-hub/cp-code/tree/master/0048-rotate-image) |
+| [0055-jump-game](https://github.com/vineetsharm55-hub/cp-code/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/vineetsharm55-hub/cp-code/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/vineetsharm55-hub/cp-code/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/vineetsharm55-hub/cp-code/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/vineetsharm55-hub/cp-code/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/vineetsharm55-hub/cp-code/tree/master/0409-longest-palindrome) |
 ## Merge Sort
 |  |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vineetsharm55-hub/cp-code/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/vineetsharm55-hub/cp-code/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/vineetsharm55-hub/cp-code/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/vineetsharm55-hub/cp-code/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vineetsharm55-hub/cp-code/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Stack
