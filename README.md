@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/vineetsharm55-hub/cp-code/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vineetsharm55-hub/cp-code/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/vineetsharm55-hub/cp-code/tree/master/0118-pascals-triangle) |
+| [0139-word-break](https://github.com/vineetsharm55-hub/cp-code/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/vineetsharm55-hub/cp-code/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/vineetsharm55-hub/cp-code/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vineetsharm55-hub/cp-code/tree/master/0215-kth-largest-element-in-an-array) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/vineetsharm55-hub/cp-code/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vineetsharm55-hub/cp-code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vineetsharm55-hub/cp-code/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0139-word-break](https://github.com/vineetsharm55-hub/cp-code/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/vineetsharm55-hub/cp-code/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/vineetsharm55-hub/cp-code/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vineetsharm55-hub/cp-code/tree/master/0217-contains-duplicate) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/vineetsharm55-hub/cp-code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/vineetsharm55-hub/cp-code/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/vineetsharm55-hub/cp-code/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/vineetsharm55-hub/cp-code/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/vineetsharm55-hub/cp-code/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/vineetsharm55-hub/cp-code/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/vineetsharm55-hub/cp-code/tree/master/0387-first-unique-character-in-a-string) |
@@ -269,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/vineetsharm55-hub/cp-code/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/vineetsharm55-hub/cp-code/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vineetsharm55-hub/cp-code/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0139-word-break](https://github.com/vineetsharm55-hub/cp-code/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/vineetsharm55-hub/cp-code/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/vineetsharm55-hub/cp-code/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/vineetsharm55-hub/cp-code/tree/master/0416-partition-equal-subset-sum) |
@@ -288,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/vineetsharm55-hub/cp-code/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/vineetsharm55-hub/cp-code/tree/master/0139-word-break) |
 ## Sliding Window
 |  |
 | ------- |
@@ -335,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/vineetsharm55-hub/cp-code/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/vineetsharm55-hub/cp-code/tree/master/0139-word-break) |
 | [1137-n-th-tribonacci-number](https://github.com/vineetsharm55-hub/cp-code/tree/master/1137-n-th-tribonacci-number) |
 ## Backtracking
 |  |
@@ -422,4 +428,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/vineetsharm55-hub/cp-code/tree/master/0416-partition-equal-subset-sum) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/vineetsharm55-hub/cp-code/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
