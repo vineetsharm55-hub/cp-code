@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/vineetsharm55-hub/cp-code/tree/master/2574-left-and-right-sum-differences) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/vineetsharm55-hub/cp-code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/vineetsharm55-hub/cp-code/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+| [2954-count-the-number-of-infection-sequences](https://github.com/vineetsharm55-hub/cp-code/tree/master/2954-count-the-number-of-infection-sequences) |
 ## Simulation
 |  |
 | ------- |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/vineetsharm55-hub/cp-code/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/vineetsharm55-hub/cp-code/tree/master/2235-add-two-integers) |
 | [2652-sum-multiples](https://github.com/vineetsharm55-hub/cp-code/tree/master/2652-sum-multiples) |
+| [2954-count-the-number-of-infection-sequences](https://github.com/vineetsharm55-hub/cp-code/tree/master/2954-count-the-number-of-infection-sequences) |
 ## Two Pointers
 |  |
 | ------- |
@@ -442,4 +444,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/vineetsharm55-hub/cp-code/tree/master/0139-word-break) |
+## Combinatorics
+|  |
+| ------- |
+| [2954-count-the-number-of-infection-sequences](https://github.com/vineetsharm55-hub/cp-code/tree/master/2954-count-the-number-of-infection-sequences) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [2954-count-the-number-of-infection-sequences](https://github.com/vineetsharm55-hub/cp-code/tree/master/2954-count-the-number-of-infection-sequences) |
 <!---LeetCode Topics End-->
