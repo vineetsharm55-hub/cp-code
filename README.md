@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/vineetsharm55-hub/cp-code/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vineetsharm55-hub/cp-code/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/vineetsharm55-hub/cp-code/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2373-largest-local-values-in-a-matrix](https://github.com/vineetsharm55-hub/cp-code/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2460-apply-operations-to-an-array](https://github.com/vineetsharm55-hub/cp-code/tree/master/2460-apply-operations-to-an-array) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/vineetsharm55-hub/cp-code/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2574-left-and-right-sum-differences](https://github.com/vineetsharm55-hub/cp-code/tree/master/2574-left-and-right-sum-differences) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/vineetsharm55-hub/cp-code/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/vineetsharm55-hub/cp-code/tree/master/0074-search-a-2d-matrix) |
 | [1672-richest-customer-wealth](https://github.com/vineetsharm55-hub/cp-code/tree/master/1672-richest-customer-wealth) |
+| [2373-largest-local-values-in-a-matrix](https://github.com/vineetsharm55-hub/cp-code/tree/master/2373-largest-local-values-in-a-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
