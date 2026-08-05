@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/vineetsharm55-hub/cp-code/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/vineetsharm55-hub/cp-code/tree/master/0415-add-strings) |
 | [0779-k-th-symbol-in-grammar](https://github.com/vineetsharm55-hub/cp-code/tree/master/0779-k-th-symbol-in-grammar) |
+| [1137-n-th-tribonacci-number](https://github.com/vineetsharm55-hub/cp-code/tree/master/1137-n-th-tribonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vineetsharm55-hub/cp-code/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/vineetsharm55-hub/cp-code/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/vineetsharm55-hub/cp-code/tree/master/2235-add-two-integers) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/vineetsharm55-hub/cp-code/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/vineetsharm55-hub/cp-code/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vineetsharm55-hub/cp-code/tree/master/0124-binary-tree-maximum-path-sum) |
+| [1137-n-th-tribonacci-number](https://github.com/vineetsharm55-hub/cp-code/tree/master/1137-n-th-tribonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/vineetsharm55-hub/cp-code/tree/master/0070-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/vineetsharm55-hub/cp-code/tree/master/1137-n-th-tribonacci-number) |
 ## Backtracking
 |  |
 | ------- |
