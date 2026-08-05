@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/vineetsharm55-hub/cp-code/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/vineetsharm55-hub/cp-code/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/vineetsharm55-hub/cp-code/tree/master/0268-missing-number) |
+| [0303-range-sum-query-immutable](https://github.com/vineetsharm55-hub/cp-code/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/vineetsharm55-hub/cp-code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vineetsharm55-hub/cp-code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/vineetsharm55-hub/cp-code/tree/master/0455-assign-cookies) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/vineetsharm55-hub/cp-code/tree/master/0225-implement-stack-using-queues) |
+| [0303-range-sum-query-immutable](https://github.com/vineetsharm55-hub/cp-code/tree/master/0303-range-sum-query-immutable) |
 | [0707-design-linked-list](https://github.com/vineetsharm55-hub/cp-code/tree/master/0707-design-linked-list) |
 | [0933-number-of-recent-calls](https://github.com/vineetsharm55-hub/cp-code/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/vineetsharm55-hub/cp-code/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/vineetsharm55-hub/cp-code/tree/master/0303-range-sum-query-immutable) |
 | [2574-left-and-right-sum-differences](https://github.com/vineetsharm55-hub/cp-code/tree/master/2574-left-and-right-sum-differences) |
 ## Quicksort
 |  |
