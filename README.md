@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/vineetsharm55-hub/cp-code/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/vineetsharm55-hub/cp-code/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/vineetsharm55-hub/cp-code/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/vineetsharm55-hub/cp-code/tree/master/0724-find-pivot-index) |
 | [0860-lemonade-change](https://github.com/vineetsharm55-hub/cp-code/tree/master/0860-lemonade-change) |
 | [0905-sort-array-by-parity](https://github.com/vineetsharm55-hub/cp-code/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/vineetsharm55-hub/cp-code/tree/master/0912-sort-an-array) |
@@ -410,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/vineetsharm55-hub/cp-code/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/vineetsharm55-hub/cp-code/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/vineetsharm55-hub/cp-code/tree/master/0724-find-pivot-index) |
 | [2574-left-and-right-sum-differences](https://github.com/vineetsharm55-hub/cp-code/tree/master/2574-left-and-right-sum-differences) |
 ## Quicksort
 |  |
