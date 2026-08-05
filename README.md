@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/vineetsharm55-hub/cp-code/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/vineetsharm55-hub/cp-code/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/vineetsharm55-hub/cp-code/tree/master/0485-max-consecutive-ones) |
+| [0525-contiguous-array](https://github.com/vineetsharm55-hub/cp-code/tree/master/0525-contiguous-array) |
 | [0605-can-place-flowers](https://github.com/vineetsharm55-hub/cp-code/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/vineetsharm55-hub/cp-code/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/vineetsharm55-hub/cp-code/tree/master/0724-find-pivot-index) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/vineetsharm55-hub/cp-code/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/vineetsharm55-hub/cp-code/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/vineetsharm55-hub/cp-code/tree/master/0409-longest-palindrome) |
+| [0525-contiguous-array](https://github.com/vineetsharm55-hub/cp-code/tree/master/0525-contiguous-array) |
 | [1122-relative-sort-array](https://github.com/vineetsharm55-hub/cp-code/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vineetsharm55-hub/cp-code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/vineetsharm55-hub/cp-code/tree/master/1512-number-of-good-pairs) |
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/vineetsharm55-hub/cp-code/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/vineetsharm55-hub/cp-code/tree/master/0303-range-sum-query-immutable) |
+| [0525-contiguous-array](https://github.com/vineetsharm55-hub/cp-code/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/vineetsharm55-hub/cp-code/tree/master/0724-find-pivot-index) |
 | [1991-find-the-middle-index-in-array](https://github.com/vineetsharm55-hub/cp-code/tree/master/1991-find-the-middle-index-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/vineetsharm55-hub/cp-code/tree/master/2574-left-and-right-sum-differences) |
