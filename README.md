@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/vineetsharm55-hub/cp-code/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/vineetsharm55-hub/cp-code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vineetsharm55-hub/cp-code/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/vineetsharm55-hub/cp-code/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/vineetsharm55-hub/cp-code/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/vineetsharm55-hub/cp-code/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/vineetsharm55-hub/cp-code/tree/master/0605-can-place-flowers) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/vineetsharm55-hub/cp-code/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/vineetsharm55-hub/cp-code/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/vineetsharm55-hub/cp-code/tree/master/0338-counting-bits) |
+| [0416-partition-equal-subset-sum](https://github.com/vineetsharm55-hub/cp-code/tree/master/0416-partition-equal-subset-sum) |
 | [1137-n-th-tribonacci-number](https://github.com/vineetsharm55-hub/cp-code/tree/master/1137-n-th-tribonacci-number) |
 ## Stack
 |  |
@@ -412,4 +414,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/vineetsharm55-hub/cp-code/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/vineetsharm55-hub/cp-code/tree/master/0229-majority-element-ii) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/vineetsharm55-hub/cp-code/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/vineetsharm55-hub/cp-code/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
