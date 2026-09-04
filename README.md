@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/vineetsharm55-hub/cp-code/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/vineetsharm55-hub/cp-code/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/vineetsharm55-hub/cp-code/tree/master/0198-house-robber) |
+| [0212-word-search-ii](https://github.com/vineetsharm55-hub/cp-code/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vineetsharm55-hub/cp-code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/vineetsharm55-hub/cp-code/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/vineetsharm55-hub/cp-code/tree/master/0219-contains-duplicate-ii) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/vineetsharm55-hub/cp-code/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/vineetsharm55-hub/cp-code/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/vineetsharm55-hub/cp-code/tree/master/0139-word-break) |
+| [0212-word-search-ii](https://github.com/vineetsharm55-hub/cp-code/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/vineetsharm55-hub/cp-code/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/vineetsharm55-hub/cp-code/tree/master/0273-integer-to-english-words) |
 | [0383-ransom-note](https://github.com/vineetsharm55-hub/cp-code/tree/master/0383-ransom-note) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/vineetsharm55-hub/cp-code/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/vineetsharm55-hub/cp-code/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/vineetsharm55-hub/cp-code/tree/master/0074-search-a-2d-matrix) |
+| [0212-word-search-ii](https://github.com/vineetsharm55-hub/cp-code/tree/master/0212-word-search-ii) |
 | [0733-flood-fill](https://github.com/vineetsharm55-hub/cp-code/tree/master/0733-flood-fill) |
 | [1672-richest-customer-wealth](https://github.com/vineetsharm55-hub/cp-code/tree/master/1672-richest-customer-wealth) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/vineetsharm55-hub/cp-code/tree/master/2373-largest-local-values-in-a-matrix) |
@@ -305,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/vineetsharm55-hub/cp-code/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/vineetsharm55-hub/cp-code/tree/master/0139-word-break) |
+| [0212-word-search-ii](https://github.com/vineetsharm55-hub/cp-code/tree/master/0212-word-search-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -359,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/vineetsharm55-hub/cp-code/tree/master/0046-permutations) |
+| [0212-word-search-ii](https://github.com/vineetsharm55-hub/cp-code/tree/master/0212-word-search-ii) |
 ## Tree
 |  |
 | ------- |
