@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/vineetsharm55-hub/cp-code/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/vineetsharm55-hub/cp-code/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/vineetsharm55-hub/cp-code/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/vineetsharm55-hub/cp-code/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/vineetsharm55-hub/cp-code/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/vineetsharm55-hub/cp-code/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/vineetsharm55-hub/cp-code/tree/master/0349-intersection-of-two-arrays) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/vineetsharm55-hub/cp-code/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/vineetsharm55-hub/cp-code/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/vineetsharm55-hub/cp-code/tree/master/0222-count-complete-tree-nodes) |
+| [0240-search-a-2d-matrix-ii](https://github.com/vineetsharm55-hub/cp-code/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/vineetsharm55-hub/cp-code/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vineetsharm55-hub/cp-code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vineetsharm55-hub/cp-code/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vineetsharm55-hub/cp-code/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/vineetsharm55-hub/cp-code/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vineetsharm55-hub/cp-code/tree/master/0215-kth-largest-element-in-an-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/vineetsharm55-hub/cp-code/tree/master/0240-search-a-2d-matrix-ii) |
 | [0912-sort-an-array](https://github.com/vineetsharm55-hub/cp-code/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -273,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/vineetsharm55-hub/cp-code/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/vineetsharm55-hub/cp-code/tree/master/0074-search-a-2d-matrix) |
 | [0212-word-search-ii](https://github.com/vineetsharm55-hub/cp-code/tree/master/0212-word-search-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/vineetsharm55-hub/cp-code/tree/master/0240-search-a-2d-matrix-ii) |
 | [0733-flood-fill](https://github.com/vineetsharm55-hub/cp-code/tree/master/0733-flood-fill) |
 | [1672-richest-customer-wealth](https://github.com/vineetsharm55-hub/cp-code/tree/master/1672-richest-customer-wealth) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/vineetsharm55-hub/cp-code/tree/master/2373-largest-local-values-in-a-matrix) |
